@@ -1,4 +1,4 @@
-print("Hello World!")
+
 def sude_nebo_liche(cislo):
     """
     Upravte funkci tak, aby vypisovala, zda je cislo sude nebo liche
@@ -9,5 +9,5 @@ def sude_nebo_liche(cislo):
 if __name__ == "__main__":
     sude_nebo_liche(5)
     sude_nebo_liche(1000000)
-    
+
 
